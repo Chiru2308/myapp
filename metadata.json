@@ -1,0 +1,7 @@
+{
+  "name": "SmartSyllabus - AI Learning Path Tracker",
+  "description": "An AI-powered syllabus analyzer that transforms complex exam documents into manageable learning modules with real-time progress tracking for students and aspirants.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
